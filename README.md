@@ -70,3 +70,5 @@ This project is intended for use while you are present at your computer and acti
 CropMate does **not** guarantee protection from anti-cheat detection. **You can and likely will be banned if you go AFK and get macro-checked.** Use at your own risk.
 
 This project is not affiliated with Microsoft, Mojang, or Hypixel.
+
+Credits to https://github.com/bkgrnd for developing the first and original concept of the script, you can check it you [here](https://github.com/bkgrnd/cropmate)
