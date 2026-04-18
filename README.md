@@ -1,5 +1,5 @@
 # CropMate
-A Minescript-based farming macro for Hypixel Skyblock.
+A Minescript-based farming tool for Hypixel Skyblock.
 
 Supports layered vertical farms (nether wart, carrots, potatoes, wheat) and flat horizontal farms (melons, pumpkins, sugar cane, flowers), with coordinate-based row detection, automatic warping, and human-like randomized timing.
 
