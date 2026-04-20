@@ -57,7 +57,7 @@ Before running any macro, save your row-end points with `\cropmate addrewarp`:
 
 ## Roadmap
 
-- [ ] Sugar cane / flower / rose / sunflower macro polish
+- [✔️] Sugar cane / flower / rose / sunflower macro polish
 - [ ] Pest detection failsafe
 - [ ] Configurable warp command and Y target via arguments
 
