@@ -49,7 +49,7 @@ Before running any macro, save your row-end points with `\cropmate addrewarp`:
 - **Coordinate-based row detection** — uses Euclidean XZ distance + Y gate for accurate, corner-safe boundary detection
 - **Stuck detection** — if no XZ advance is detected within a randomized window, automatically reverses direction (modes 1/2) or steps to the next row with W (modes 3/4)
 - **Y-gated warp** — only executes `warp garden` if the player is at Y=67 (±0.6), preventing warps from wrong positions
-- **Periodic warp** — warps back to garden every 10 completed row pairs
+- **Periodic warp** — warps back to garden every 10 completed row pairs or every x minutes (row_timeout adjustable)
 - **Fullauto mode** — randomly pauses the macro for 3–6 minutes every 3–6 minutes of farming, then resumes automatically
 - **Randomized timing throughout** — row pauses, warp delays, load waits, stuck check intervals, and W step durations are all randomized ranges so behavior never repeats exactly
 
